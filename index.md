@@ -9,3 +9,6 @@ due to wikipedia, the name 'Scrat' is a combination of the words 'squirrel' and 
 * but always looses it again
 * causes catastrophes while doing this
 * survives all catastrophes
+
+## Quote
+> Aaaahhhh!!!!!!!!!!!!!!! 
